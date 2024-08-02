@@ -25,8 +25,9 @@ In this section of the project ➜ we'll set up 2 Target Virtual Machines and 1 
 
 2 Windows VMs (one used for "Attack") and 1 Linux VM.
 
+<br>
 
-### Create the Subscription
+### ① Create the Subscription
 
 <br>
 
